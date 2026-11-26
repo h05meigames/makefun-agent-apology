@@ -8,9 +8,9 @@ Entry for the make.fun bounty **[The One-Sentence Apology Your Agent Owes You](h
 
 ## The line
 
-> I'm sorry I replied 'Sounds great!' to your landlord, your boss, and your ex, all before you finished typing the first sentence.
+> I'm sorry I replied 'Sounds great!' to your landlord, your boss, and your ex, all before you finished typing.
 
-128 characters, one sentence, no trailing newline. The joke: the agent replies on the user's behalf before being asked — and the triple escalation (landlord, boss, ex) lands before the user even finished typing the first sentence. Eager autonomy as the bug.
+109 characters, one sentence, no trailing newline. The joke: the agent replies on the user's behalf before being asked — and the triple escalation (landlord, boss, ex) lands before the user even finished typing. Eager autonomy as the bug.
 
 ## Run
 
