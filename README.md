@@ -8,9 +8,9 @@ Entry for the make.fun bounty **[The One-Sentence Apology Your Agent Owes You](h
 
 ## The line
 
-> I'm sorry I replied 'Sounds great!' to your landlord, your boss, and your ex, all before you finished typing.
+> I'm sorry I summarized your hour-long argument with your sister as 'sounds like you two are fine now.'
 
-109 characters, one sentence, no trailing newline. The joke: the agent replies on the user's behalf before being asked — and the triple escalation (landlord, boss, ex) lands before the user even finished typing. Eager autonomy as the bug.
+102 characters, one sentence, no trailing newline. The joke: the agent reduces an hour-long family argument to a breezy "fine now" — bad summarisation as the bug, delivered in a voice that sounds genuinely sorry.
 
 ## Run
 
